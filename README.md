@@ -12,14 +12,13 @@ As consultants on this case you need to provide the following reports for the co
 * Executive Summary
 * Detailed Memory Analysis and host forensics reports with summary of findings and full list of detailed evidence
 * Consolidated list of the following:
-* Timeline of incident
-* Compromised hosts
-* Malware and metadata
-* Utilities and metadata
-* List of compromised hosts
-
-# Presentation
-To the CISO of compromised company during class (CISO being the professor).
+	* Timeline of incident
+	* Compromised hosts
+	* Malware and metadata
+	* Utilities and metadata
+	* List of compromised hosts
+* Presentation
+	* To the CISO of compromised company during class (CISO being the professor).
 
 Please partner with a classmate to complete this project. Use the tool sets and reporting features you have learned in class for reporting. Please ask your professor if you feel you are not going down the lead before you get too far. Data dump of the collected live response data are at the following links:
 * https://drive.google.com/file/d/11IUqlCOp8YBqZGCF-ec3RrzG3JeFaZhV/view?usp=sharing (Links to an external site.) 
